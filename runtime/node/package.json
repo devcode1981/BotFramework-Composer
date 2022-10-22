@@ -34,7 +34,7 @@
     "@types/jest": "^25.2.3",
     "@types/lodash": "^4.14.159",
     "@types/minimist": "^1.2.0",
-    "@types/node": "^10.12.18",
+    "@types/node": "^18.7.23",
     "@types/restify": "^8.4.2",
     "babel-jest": "^26.1.0",
     "jest": "^26.1.0",
